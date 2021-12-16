@@ -28,6 +28,9 @@ namespace BlockingCollectionApp
             Task.WhenAll(t1, t2,t3);
             Console.WriteLine("Done");
             Console.ReadLine();
-        }
+
+            //produce thread will produce data and it will publish an event to consumer
+            //consumer will consume the data and inform produce that I have read the data and you can produce again
+    }
     }
 }
