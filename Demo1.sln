@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollectionApp", "BlockingCollectionApp\BlockingCollectionApp.csproj", "{9C8987FD-05F7-4920-B398-B8F7811E44DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69EE856A-9F2A-450A-99E3-20D588ADD48F}
+	EndGlobalSection
+EndGlobal
