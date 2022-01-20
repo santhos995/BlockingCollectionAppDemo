@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollectionApp", "BlockingCollectionApp\BlockingCollectionApp.csproj", "{9C8987FD-05F7-4920-B398-B8F7811E44DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchDemo", "BinarySearchDemo\BinarySearchDemo.csproj", "{B7531818-084E-42ED-995F-F8A472C71266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C8987FD-05F7-4920-B398-B8F7811E44DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7531818-084E-42ED-995F-F8A472C71266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7531818-084E-42ED-995F-F8A472C71266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7531818-084E-42ED-995F-F8A472C71266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7531818-084E-42ED-995F-F8A472C71266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
